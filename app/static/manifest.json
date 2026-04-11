@@ -1,0 +1,21 @@
+{
+  "name": "Smart AI Home Cam",
+  "short_name": "AI Cam",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#1f1f1f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3616/3616927.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3616/3616927.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
