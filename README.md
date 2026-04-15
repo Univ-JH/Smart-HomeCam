@@ -8,9 +8,8 @@
 [![Flask](https://img.shields.io/badge/Flask-2.3-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=for-the-badge)](https://ultralytics.com)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-4B-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://raspberrypi.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-*임베디드 시스템 및 실습 — 팀 프로젝트 (2024 2학기)*
+*임베디드 시스템 및 실습 — 팀 프로젝트 (2025 2학기)*
 
 </div>
 
@@ -202,9 +201,3 @@ else  → Sitting
   → 기기명 반환: is_owner_home = True   (홈 모드)
   → None 반환:   is_owner_home = False  (보안 모드)
 ```
-
----
-
-## 👥 팀원 (Contributors)
-
-> *임베디드 시스템 및 실습 — 팀 프로젝트*
